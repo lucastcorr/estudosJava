@@ -31,6 +31,7 @@ public class Seminario {
         System.out.println("Nome do aluno: "+aluno.getNome());
       }
     }
+    System.out.println("------------------------------");
   }
 
   public void setTitulo(String titulo) {
